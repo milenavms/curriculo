@@ -148,7 +148,7 @@ aside span{
     background-color: #ef5350 ;
     color: white;
 }
-.card-content{
+.card .card-content{
     background-color: #ef5350  ;
     border: 1px solid white; 
 }
