@@ -1,6 +1,6 @@
 ### Currículo
 
-[Disponivel em:](https://milenavms.github.io/curriculo/)
+[Disponivel aqui](https://milenavms.github.io/curriculo/)
 
 ### Tecnologias
 
