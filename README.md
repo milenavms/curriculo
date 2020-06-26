@@ -1,4 +1,4 @@
-### curriculo
+### Currículo
 
 [Disponivel em:](https://milenavms.github.io/curriculo/)
 
